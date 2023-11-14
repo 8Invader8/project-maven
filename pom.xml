@@ -48,6 +48,7 @@
                 <targetPath>lib/</targetPath>
             </resource>
         </resources>
+
         <plugins>
             <!-- Usual compilation -->
             <plugin>
